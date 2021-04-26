@@ -36,6 +36,6 @@ x.	Does not use it, in other uses that are not personal, non-commercial.
 
 xi.	You share the work under the same license, without changing or adding terms, and conserving the freedom, that the license offers.
 
-Remember that, following these conditions, we must attribute the author of the work as follows:
+Remember that, following these conditions, you must attribute the author of the work as follows:
 
 "This work by [AUTHOR], is licensed under Otakuru public License Level 3, and has been used with permission”. (the space between brackets, replace it with the author's name and without the comas).
