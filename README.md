@@ -9,5 +9,6 @@ You can use them in:
 5. Architecture.
 6. Books.
 7. And basically everything that copyright can protect in your nation.
+
 Remember not to modify them, unless otherwise indicated.
 The licenses have four levels, which you can check in the repository.
