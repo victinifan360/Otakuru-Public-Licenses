@@ -1,4 +1,4 @@
-# Otakuru-Licenses
+# Otakuru-Public-Licenses
 Repository on the different "Otakuru public licenses" that you can use in your projects, no matter what they are.
 Based on Creative Commons.
 You can use them in:
