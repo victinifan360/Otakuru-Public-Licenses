@@ -1,4 +1,4 @@
-# Otakuru-Public License-Level 1 Attribution
+# Otakuru-Public License-Level 2 Attribution+Personal Use
 
 Copyright © Alejo Fernandez.
 Anyone can apply for this free license for any purpose, and share this license document, but it cannot be modified unless otherwise indicated.
