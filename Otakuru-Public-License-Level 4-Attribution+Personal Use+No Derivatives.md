@@ -1,4 +1,4 @@
-# Otakuru-Public License-Level 3 Attribution+Personal Use+Same license
+# Otakuru-Public License-Level 4 Attribution+Personal Use+Same license
 
 Copyright © Alejo Fernandez.
 Anyone can apply for this free license for any purpose, and share this license document, but it cannot be modified unless otherwise indicated.
@@ -38,4 +38,4 @@ xi.	You share the work without making derivatives, either personally, or sharing
 
 Remember that, following these conditions, you must attribute the author of the work as follows:
 
-"This work by [AUTHOR], is licensed under Otakuru public License Level 3, and has been used with permission”. (the space between brackets, replace it with the author's name and without the comas).
+"This work by [AUTHOR], is licensed under Otakuru public License Level 4, and has been used with permission”. (the space between brackets, replace it with the author's name and without the comas).
