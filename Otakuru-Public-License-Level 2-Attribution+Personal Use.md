@@ -37,3 +37,8 @@ x.	Does not use it, in other uses that are not personal, non-commercial.
 Remember that, following these conditions, you must attribute the author of the work as follows:
 
 "This work by [AUTHOR], is licensed under Otakuru public License Level 2, and has been used with permission”. (the space between brackets, replace it with the author's name and without the comas).
+
+### For licensors:
+
+If you want to use this license, you have to put a link to the license text clearly explaining that your work is licensed under this license.
+
