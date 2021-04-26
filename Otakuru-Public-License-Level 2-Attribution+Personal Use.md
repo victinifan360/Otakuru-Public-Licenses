@@ -34,6 +34,6 @@ ix.	For Argentine residents only: Does not use it for parodic purposes, without 
 
 x.	Does not use it, in other uses that are not personal, non-commercial.
 
-Remember that, following these conditions, we must attribute the author of the work as follows:
+Remember that, following these conditions, you must attribute the author of the work as follows:
 
 "This work by [AUTHOR], is licensed under Otakuru public License Level 2, and has been used with permission”. (the space between brackets, replace it with the author's name and without the comas).
