@@ -3,7 +3,7 @@
 Copyright © Alejo Fernandez.
 Anyone can apply for this free license for any purpose, and share this license document, but it cannot be modified unless otherwise indicated.
 THIS WORK IS PRESENTED WITHOUT AN EXPRESS OR IMPLIED WARRANTY, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE WORK.
-Introduction: Welcome to the Otakuru Public License level 1 V2. This text tells you what you can, and what not to do with the work, as well as being a guide for its reproduction and distribution.
+Introduction: Welcome to the Otakuru Public License level 1 V1. This text tells you what you can, and what not to do with the work, as well as being a guide for its reproduction and distribution.
 
 By using the work, the licensor offers you a revocable, non-transferable, limited, non-exclusive, non-sub licensable license, for any purpose, following the license.
 
