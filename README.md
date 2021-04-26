@@ -28,7 +28,7 @@ They can use your work, share it, modify it, on the condition that they attribut
 
 ## Level 4
 
-They can use your work, share it, modify it, on the condition that they attribute it to you, only use it for their personal, non-commercial purposes, and not to making derivatives of it (Kind of like CC BY-NC- ND).
+They can use your work, and share it,  on the condition that they attribute it to you, only use it for their personal, non-commercial purposes, and not to making derivatives of it (Kind of like CC BY-NC- ND).
 
 ### Thanks to Freepik for much part of the license.
 
