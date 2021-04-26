@@ -34,7 +34,7 @@ ix.	For Argentine residents only: Does not use it for parodic purposes, without 
 
 x.	Does not use it, in other uses that are not personal, non-commercial.
 
-xi.	You share the work without making derivatives, personally, or sharing it.
+xi.	You share the work without making derivatives, either personally, or sharing it.
 
 Remember that, following these conditions, we must attribute the author of the work as follows:
 
