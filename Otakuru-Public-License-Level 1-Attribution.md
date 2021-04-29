@@ -17,7 +17,7 @@ You may use the content licensed and, provided that it:
 
 i. Does not involve collective use;
 
-ii.	The content in the work Content is not used in a manner that suggests an association or endorsement by the Company or the Website;
+ii.	The content in the work Content is not used in a manner that suggests an association or endorsement by the author;
 
 iii.	The content in the work Content or any derivative work is not used or included (in whole or in part) in a database, archive or in any other media/stock product, collection, set of clips, or library, for distribution or resale or used in any other way that could prevent or limit future visits or downloads from the Website;
 iv.	Does not use the content in printed or electronic items (e.g. t-shirts, cups, postcards, birthday or greeting cards, invitations, calendars, web models or electronic devices, apps, videogames, advertising spots, audiovisual animations) aimed to be resold, in which the content in the work is the main element (because of size, relevance or any other cause, in case of doubt about whether the content is main element, it shall be deemed that the content is main element);
